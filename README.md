@@ -1,1 +1,0 @@
-searchbox with a category dropdown that works with autocomplete
